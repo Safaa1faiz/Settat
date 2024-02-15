@@ -8,6 +8,7 @@ order: 3
 ![Histoire](./images/téléchargement.jpg){:width="500px" }
 *Kasbah de Settat*
 
+<!-- note -->
 
 En choisissant de construire la Kasbah sur le site vallonné de Settat, Moulay Ismaïl allait déclencher le processus d'urbanisation de ce site. En effet, l'édification de la kasbah a apporté ordre et sécurité aussi bien aux voyageurs qu'aux habitants et favorisé les implantations humaines à ses abords. Bien plus, en y installant le premier caïd de cette région qui dépendait auparavant de Caïd Doukkali et Rahmani, Moulay Ismaïl officialisa Settat comme chef-lieu de cette région.
 
