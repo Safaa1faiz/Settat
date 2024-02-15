@@ -17,6 +17,4 @@ Cette dernière est située dans la région géographique et historique de la Ch
 
 La tribu des Ayt Settat avait été établie par les Almohades. Ils appartenaient à l'alliance almohade dirigée par Masmuda selon al-Baydaq, Ibn Hazm et Ibn Khaldun. Leur origine est au sud-est du Haut-Atlas et ils se sont apparemment installés dans la région de la Chaouia à la suite de l'avancée des Almohades vers le nord1. On pense qu’il y avait été installé au même titre que d’autres tribus pour combattre les Berghouata, avant par finir d’être absorber par le cocon primitif de la région.
 
-
-
 <!-- new slide -->
